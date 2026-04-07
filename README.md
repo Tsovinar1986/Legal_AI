@@ -1,7 +1,6 @@
 # Legal AI
 
-A legal API scaffold based on the health-api structure example, with Ollama-friendly architecture.
-
+A legal API scaffold based on the Legal-AI for legal lawyer advice or giving the situation of the court sstay to make great advice how to give the article where and how to make decision and legal advice for individuals like maybe if needed to contact the lawyer.
 ## Repository structure
 
 - `legal-api/`
@@ -27,5 +26,4 @@ A legal API scaffold based on the health-api structure example, with Ollama-frie
 
 ```bash
 cd legal-api
-python -m uvicorn src.main:app --reload
-```
+
